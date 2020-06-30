@@ -9,4 +9,4 @@ This repository is for any discord themes I modify or create
 
   - StormYeti's Pallet Swap (most references to green are now #8000D3)
 
-*Uploads only include changed lines, minor fixes, and a reference to the original css file. It *should* update automatically.
+*Uploads only include changed lines, minor fixes, and imports the original css file.
